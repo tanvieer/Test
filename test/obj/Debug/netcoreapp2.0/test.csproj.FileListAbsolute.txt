@@ -1,0 +1,11 @@
+c:\users\tanvi\source\repos\test\test\bin\Debug\netcoreapp2.0\test.deps.json
+c:\users\tanvi\source\repos\test\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.json
+c:\users\tanvi\source\repos\test\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.dev.json
+c:\users\tanvi\source\repos\test\test\bin\Debug\netcoreapp2.0\test.dll
+c:\users\tanvi\source\repos\test\test\bin\Debug\netcoreapp2.0\test.pdb
+c:\users\tanvi\source\repos\test\test\obj\Debug\netcoreapp2.0\test.csprojResolveAssemblyReference.cache
+c:\users\tanvi\source\repos\test\test\obj\Debug\netcoreapp2.0\test.csproj.CoreCompileInputs.cache
+c:\users\tanvi\source\repos\test\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
+c:\users\tanvi\source\repos\test\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
+c:\users\tanvi\source\repos\test\test\obj\Debug\netcoreapp2.0\test.dll
+c:\users\tanvi\source\repos\test\test\obj\Debug\netcoreapp2.0\test.pdb
