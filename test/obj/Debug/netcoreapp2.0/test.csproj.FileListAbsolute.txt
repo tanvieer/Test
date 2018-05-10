@@ -9,3 +9,14 @@ c:\users\tanvi\source\repos\test\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoI
 c:\users\tanvi\source\repos\test\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
 c:\users\tanvi\source\repos\test\test\obj\Debug\netcoreapp2.0\test.dll
 c:\users\tanvi\source\repos\test\test\obj\Debug\netcoreapp2.0\test.pdb
+C:\Users\tanvi\source\repos\softGrid\Test\test\bin\Debug\netcoreapp2.0\test.deps.json
+C:\Users\tanvi\source\repos\softGrid\Test\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.json
+C:\Users\tanvi\source\repos\softGrid\Test\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.dev.json
+C:\Users\tanvi\source\repos\softGrid\Test\test\bin\Debug\netcoreapp2.0\test.dll
+C:\Users\tanvi\source\repos\softGrid\Test\test\bin\Debug\netcoreapp2.0\test.pdb
+C:\Users\tanvi\source\repos\softGrid\Test\test\obj\Debug\netcoreapp2.0\test.csprojResolveAssemblyReference.cache
+C:\Users\tanvi\source\repos\softGrid\Test\test\obj\Debug\netcoreapp2.0\test.csproj.CoreCompileInputs.cache
+C:\Users\tanvi\source\repos\softGrid\Test\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
+C:\Users\tanvi\source\repos\softGrid\Test\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
+C:\Users\tanvi\source\repos\softGrid\Test\test\obj\Debug\netcoreapp2.0\test.dll
+C:\Users\tanvi\source\repos\softGrid\Test\test\obj\Debug\netcoreapp2.0\test.pdb

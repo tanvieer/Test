@@ -13130,11 +13130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tanvi\\source\\repos\\softGrid\\Test\\test\\test.csproj",
-      "projectName": "test",
-      "projectPath": "C:\\Users\\tanvi\\source\\repos\\softGrid\\Test\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\tanvi\\Desktop\\Test\\New folder (2)\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectName": "WebApplication2",
+      "projectPath": "C:\\Users\\tanvi\\Desktop\\Test\\New folder (2)\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\tanvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tanvi\\source\\repos\\softGrid\\Test\\test\\obj\\",
+      "outputPath": "C:\\Users\\tanvi\\Desktop\\Test\\New folder (2)\\WebApplication2\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
